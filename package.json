@@ -1,0 +1,14 @@
+{
+  "name": "finnish-words",
+  "version": "1.0.0",
+  "description": "All finnish words in multiple formats",
+  "main": "index.js",
+  "scripts": {
+    "install": "node build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "EUPL-1.1",
+  "dependencies": {
+    "xml-js": "^1.6.7"
+  }
+}
